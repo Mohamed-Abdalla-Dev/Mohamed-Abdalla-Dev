@@ -87,6 +87,4 @@
   
   **⭐ Don't forget to star the projects you like!**
 </div>
-  
-  **⭐ لا تنسى أن تترك نجمة للمشاريع التي تعجبك!**
 </div>
