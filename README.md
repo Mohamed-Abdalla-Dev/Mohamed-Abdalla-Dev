@@ -37,13 +37,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdalla-Dev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdalla-Dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedCleanCode&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedCleanCode&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedCleanCode&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
