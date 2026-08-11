@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=4F46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Tailwind+CSS+Expert;Back+End+as+Service" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=4F46E5&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Tailwind+CSS+Expert;Back+End+as+Service" alt="Typing SVG" />
 </div>
 
 ---
