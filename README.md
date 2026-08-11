@@ -15,9 +15,9 @@
 **Frontend Developer** specialized in **React**, passionate about building modern, fast, and user-friendly web applications. Currently expanding my skills toward **Full Stack Development**.
 
 - **Role:** Frontend Developer
-- **Location:** Tripoli, Libya
+- **Location:** Benghazi, Libya
 - **Experience:** 1 year in Frontend Development
-- **Tech Stack:** React · Tailwind CSS · JavaScript · HTML · CSS
+- **Tech Stack:** HTML · CSS · JavaScript · React · Tailwind CSS ·
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
 - **Portfolio** [mohamed-protfolio-rho.vercel.app](https://mohamed-protfolio-rho.vercel.app)
 
