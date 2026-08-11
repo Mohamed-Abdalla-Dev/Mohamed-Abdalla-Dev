@@ -19,7 +19,7 @@
 - **Experience:** 1 year in Frontend Development
 - **Tech Stack:** React · Tailwind CSS · JavaScript · HTML · CSS
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
-- **Portfolio** [mohamed-protfolio-rho.vercel.app](mailto:mohamed-protfolio-rho.vercel.app)
+- **Portfolio** [mohamed-protfolio-rho.vercel.app]((https://mohamed-protfolio-rho.vercel.app))
 
 ---
 
