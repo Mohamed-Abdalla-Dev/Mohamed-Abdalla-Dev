@@ -113,5 +113,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=150&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=150&section=footer" width="100%" alt="Footer" />
 </div>
