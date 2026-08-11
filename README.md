@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Mohamed%20Abdalla&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Mohamed%20Abdalla&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 ---
