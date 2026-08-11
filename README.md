@@ -6,9 +6,7 @@
 
 ## 👋 Hi, I'm Mohamed Abdalla
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU0dHYxdjd6cmM3anFlZ2o1cnZ2azVwMWJ1ZWlseDAwNXdtNGgwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Animated developer at work"/>
-</p>
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU0dHYxdjd6cmM3anFlZ2o1cnZ2azVwMWJ1ZWlseDAwNXdtNGgwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif")
 
 **Frontend Developer** specialized in **React**, passionate about building modern, fast, and user-friendly web applications. Currently expanding my skills toward **Full Stack Development**.
 
