@@ -49,9 +49,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdalla-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdalla-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdalla-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdalla-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Abdalla-Dev&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
 
 ---
