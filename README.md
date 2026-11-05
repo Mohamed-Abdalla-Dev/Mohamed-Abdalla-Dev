@@ -24,14 +24,7 @@
 
 ## Skills & Technologies
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind," />
-
-### Backend Service
-<img src="https://skillicons.dev/icons?i=supabase" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,git,github,supabase" />
 
 ---
 ## 🌐 Connect with Me
