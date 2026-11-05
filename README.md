@@ -16,7 +16,6 @@
 
 - **Role:** Frontend Developer
 - **Location:** Benghazi, Libya
-- **Tech Stack:**  ·
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
 - **Portfolio** [mohamed-protfolio-rho.vercel.app](https://mohamed-protfolio-rho.vercel.app)
 
