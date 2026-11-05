@@ -16,7 +16,7 @@
 
 - **Role:** Frontend Developer
 - **Location:** Benghazi, Libya
-- **Tech Stack:** HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Git · GitHub <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" /> ·
+- **Tech Stack:** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind," /> ·
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
 - **Portfolio** [mohamed-protfolio-rho.vercel.app](https://mohamed-protfolio-rho.vercel.app)
 
