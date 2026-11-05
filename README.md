@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Mohamed%20Abdalla&fontAlignY=38&desc=%20Software%20Engineer&rfontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Mohamed%20Abdalla&fontAlignY=38&rfontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 - **Role:** Frontend Developer
 - **Location:** Benghazi, Libya
-- **Tech Stack:** HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Git · GitHub ·
+- **Tech Stack:** HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Git · GitHub <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" /> ·
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
 - **Portfolio** [mohamed-protfolio-rho.vercel.app](https://mohamed-protfolio-rho.vercel.app)
 
