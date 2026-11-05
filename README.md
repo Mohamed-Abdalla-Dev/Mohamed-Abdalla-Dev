@@ -16,8 +16,7 @@
 
 - **Role:** Frontend Developer
 - **Location:** Benghazi, Libya
-- **Experience:** 1 year in Frontend Development
-- **Tech Stack:** HTML · CSS · JavaScript · React · Tailwind CSS ·
+- **Tech Stack:** HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Git · GitHub ·
 - **Email:** [mohamadabdalla6818@gmail.com](mailto:mohamadabdalla6818@gmail.com)
 - **Portfolio** [mohamed-protfolio-rho.vercel.app](https://mohamed-protfolio-rho.vercel.app)
 
