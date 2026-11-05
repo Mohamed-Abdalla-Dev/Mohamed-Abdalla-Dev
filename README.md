@@ -31,11 +31,7 @@
 <img src="https://skillicons.dev/icons?i=supabase" />
 
 ### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 
 ---
 ## 🌐 Connect with Me
